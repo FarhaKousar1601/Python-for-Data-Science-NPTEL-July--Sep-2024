@@ -72,10 +72,19 @@ This elective course focuses on Data Structures and Algorithms (DSA) using Java,
 
 ## 📝 Assignments
 
-- **Week 1 Assignment**: ![Score: 95.0](https://img.shields.io/badge/Score-95.0-brightgreen)
+- **Week 1 Assignment**: ![Score: 97.0](https://img.shields.io/badge/Score-97.0-brightgreen)
 - **Week 2 Assignment**: ![Score: 90.0](https://img.shields.io/badge/Score-90.0-brightgreen)
-- **Week 3 Assignment**: ![Score: 98.0](https://img.shields.io/badge/Score-98.0-brightgreen)
-- **Week 4 Assignment**: ![Score: 92.0](https://img.shields.io/badge/Score-92.0-brightgreen)
+- **Week 3 Assignment**: ![Score: 100.0](https://img.shields.io/badge/Score-100.0-brightgreen)
+- **Week 4 Assignment**: ![Score: 90.0](https://img.shields.io/badge/Score-90.0-brightgreen)
+
+### Assignment Score Calculation
+
+To calculate the total assignment percentage:
+97 + 90 + 100 / 300 * 0.25 * 100 = 23.91%
+If the assignments are weighted equally, the total assignment percentage would be:
+
+![Assignment Percentage: 23.91/25](https://img.shields.io/badge/percentage-23.91%2F25-brightgreen)
+
 
 ## 🔗 Connect & Share
 
