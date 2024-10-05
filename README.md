@@ -96,6 +96,16 @@ Total Assignment Percentage = (97 + 90 + 100 ) / 300 * 100 = 94.25% * 0.25 * 100
 ```
 
 ---
+# Certifications
+
+## Python for Data Science - Elite Certificate
+
+I successfully completed the **Python for Data Science** course and received an **Elite Certificate** with the following scores:
+
+- **Score**: 23.92/25 (Internal) and 43.5/75 (External)
+- **Final Score**: 67
+
+This certification showcases my understanding of Python for Data Science concepts, tools, and techniques.
 
 ## 🔗 Connect & Share
 
