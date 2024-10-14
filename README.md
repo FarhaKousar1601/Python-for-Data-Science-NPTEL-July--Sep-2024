@@ -1,4 +1,6 @@
 
+![Python-for-Data-Science-NPTEL-July--Sep-2024](https://socialify.git.ci/FarhaKousar1601/Python-for-Data-Science-NPTEL-July--Sep-2024/image?font=Bitter&forks=1&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Auto)
+
 # Python for Data Science (July - September 2024)
 
 ![Duration](https://img.shields.io/badge/Duration-4%20weeks-blue)
